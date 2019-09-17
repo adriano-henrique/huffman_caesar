@@ -1,0 +1,2 @@
+The encryption by the Caesar file is: Dguldqr hk ohjdo
+The final encryption with Huffman is: 01010011001010001110100011111000001101101010001001111101
