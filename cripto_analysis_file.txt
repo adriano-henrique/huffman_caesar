@@ -1,7 +1,0 @@
-The Caesar Cipher was made based on the offset: 3
- 
- The frequency map of each character in the Huffman Coding is: 
-{ =2, A=1, a=2, r=1, d=1, e=2, g=1, h=1, i=1, l=2, n=1, o=1}
- 
- The mapping from characters to binary used in the Huffman Coding is: 
-{ =000, A=1010, a=110, D=0101, d=0111, e=100, g=0010, h=1111, i=0110, j=1001, k=0110, l=010, n=1110, o=0011, q=0100, r=1011, u=0010}
